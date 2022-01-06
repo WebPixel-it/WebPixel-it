@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WebPixel
+- 👋 Hi, I’m @WebPixel-it
 - 👀 I’m interested in JavaScript and React
 - 💞️ I’m looking to collaborate on Frontend projects
 - 📫 How to reach me martha@webpixel.it
